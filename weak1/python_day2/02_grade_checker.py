@@ -1,4 +1,4 @@
-# elif example
+# Check grade 
 marks = int(input("Enter your obtain marks:"))
 
 if marks>=90:
