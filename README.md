@@ -1,4 +1,4 @@
-# 🚀 My Python Dev Journey
+# 🚀 My Dev Journey
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Daily Practice](https://img.shields.io/badge/Daily%20Practice-ON-green?style=flat-square)
@@ -52,3 +52,16 @@
 
 ## 🗂️ Folder Structure
 
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 GitHub: [Shashanksingh-01](https://github.com/Shashanksingh-01)
+- 📷 Instagram (optional): `@your_username_here`
+- 🌐 Portfolio (coming soon)
+
+---
+
+> 💡 “Code every day. Share your progress. Let your work speak.”  
+> — Shashank Singh 🚀
