@@ -52,3 +52,16 @@
 
 ## 🗂️ Folder Structure
 
+
+---
+
+## 🧑‍💻 Connect with Me
+
+- 🔗 [GitHub](https://github.com/Shashanksingh-01)
+- 📷 Instagram: `@officialshashanksingh_07`
+- 🌐 Portfolio: coming soon...
+
+---
+
+> “Code daily, grow constantly, and let the work speak.”  
+> — Shashank Singh 💻❤️
