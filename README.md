@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Dev Journey</h1>
+# 🚀 My Dev Journey
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python">
