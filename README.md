@@ -58,8 +58,8 @@
 ## 📫 Connect With Me
 
 - 🔗 GitHub: [Shashanksingh-01](https://github.com/Shashanksingh-01)
-- 📷 Instagram (optional): `@your_username_here`
-- 🌐 Portfolio (coming soon)
+- 📷 Instagram : `@officialshashanksingh_07`
+- 🌐 Portfolio : coming soon . . .
 
 ---
 
