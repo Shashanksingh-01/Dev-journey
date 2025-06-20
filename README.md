@@ -8,7 +8,7 @@
 
 ## 👋 Hello! I'm **Shashank Singh**
 
-> A first-year **CSE IoT** student on a mission to become a full-stack Python Developer 💻  
+> A first-year **CSE IOT** student on a mission to become a full-stack Python Developer 💻  
 > I believe in learning by doing — and this repo is proof of that!
 
 ---
