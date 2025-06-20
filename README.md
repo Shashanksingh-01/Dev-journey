@@ -17,12 +17,12 @@
 
 ### 🔸 Week 1 – Basics + Patterns
 
-| ✅ Day | Topics Covered | Folder |
-|-------|----------------|--------|
-| ✅ Day 1 | Input, Variables, Print | `weak1/python_day1/` |
-| ✅ Day 2 | If-Else, Conditions | `weak1/python_day2/` |
-| ✅ Day 3 | Loops, Pattern Printing | `weak1/python_day3/` |
-| 🔜 Day 4 | Functions & Logic Building | `weak1/python_day4/` |
+| ✅ Day | Topics Covered                        | Folder               |
+|--------|----------------------------------------|----------------------|
+| ✅ Day 1 | Input, Variables, Print               | `weak1/python_day1/` |
+| ✅ Day 2 | If-Else, Conditions                   | `weak1/python_day2/` |
+| ✅ Day 3 | Loops, Pattern Printing               | `weak1/python_day3/` |
+| ✅ Day 4 | Nested Loops, Patterns, Mini Project  | `weak1/python_day4/` |
 
 ---
 
