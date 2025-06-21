@@ -23,6 +23,7 @@
 | ✅ Day 2 | If-Else, Conditions                   | `weak1/python_day2/` |
 | ✅ Day 3 | Loops, Pattern Printing               | `weak1/python_day3/` |
 | ✅ Day 4 | Nested Loops, Patterns, Mini Project  | `weak1/python_day4/` |
+| ✅ Day 5 | Functions, Reusability, Calculator | `weak1/python_day5/` |
 
 ---
 
