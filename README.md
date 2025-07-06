@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 - 🔗 GitHub: [Shashanksingh-01](https://github.com/Shashanksingh-01)
-- 📷 Instagram : `@officialshashanksingh_07`
+- 📷 Instagram : `@official_shashanksingh.07`
 - 🌐 Portfolio : coming soon . . .
 
 ---
