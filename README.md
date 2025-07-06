@@ -17,17 +17,23 @@
 
 ### 🔸 Week 1 – Basics + Patterns + Functions
 
-| ✅ Day | Topics Covered                     | Folder                  |
-|--------|------------------------------------|--------------------------|
-| ✅ Day 1 | Input, Variables, Print             | `weak1/python_day1/`     |
-| ✅ Day 2 | If-Else, Conditions                 | `weak1/python_day2/`     |
-| ✅ Day 3 | Loops, Pattern Printing            | `weak1/python_day3/`     |
-| ✅ Day 4 | Functions & Logic Building         | `weak1/python_day4/`     |
-| ✅ Day 5 | Function Examples + Calculator     | `weak1/python_day5/`     |
-| ✅ Day 6 | String Methods + List Basics       | `weak1/python_day6/`     |
-| ✅ Day 7 | String Indexing + Practice Test    | `weak1/python_day7/`     |
+| ✅ Day | Topics Covered                          | Folder                    |
+|--------|-----------------------------------------|---------------------------|
+| ✅ Day 1 | Input, Variables, Print                | `weak1/python_day1/`      |
+| ✅ Day 2 | If-Else, Conditions                    | `weak1/python_day2/`      |
+| ✅ Day 3 | Loops, Pattern Printing               | `weak1/python_day3/`      |
+| ✅ Day 4 | Functions & Logic Building            | `weak1/python_day4/`      |
+| ✅ Day 5 | Function Examples + Calculator        | `weak1/python_day5/`      |
+| ✅ Day 6 | String Methods + List Basics          | `weak1/python_day6/`      |
+| ✅ Day 7 | String Indexing + Practice Test       | `weak1/python_day7/`      |
 
----
+### 🔸 Week 2 – Lists, Tuples, Dictionary & Functions
+
+| ✅ Day | Topics Covered                          | Folder                    |
+|--------|-----------------------------------------|---------------------------|
+| ✅ Day 8 | List, Tuple, Dictionary                | `weak2/python_day8/`      |
+| ✅ Day 9 | Function + List/Dict Combo Practice    | `weak2/python_day9/`      |
+
 
 ## 🛠️ Tech Stack I'm Learning
 
