@@ -33,6 +33,7 @@
 |--------|-----------------------------------------|---------------------------|
 | ✅ Day 8 | List, Tuple, Dictionary                | `weak2/python_day8/`      |
 | ✅ Day 9 | Function + List/Dict Combo Practice    | `weak2/python_day9/`      |
+| ✅ Day 10 | Advanced Functions, Arguments, Return, Mini Project | `weak2/python_day10/` |
 
 
 ## 🛠️ Tech Stack I'm Learning
