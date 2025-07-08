@@ -1,0 +1,3 @@
+Hello, Shashank Singh!
+Welcome to file handling in python. 
+this line was added later by Shashank Singh.

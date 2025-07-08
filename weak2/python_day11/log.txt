@@ -1,0 +1,5 @@
+program started
+User Logged in
+User performed an action
+program ended
+
