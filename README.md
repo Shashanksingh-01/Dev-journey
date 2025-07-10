@@ -35,6 +35,7 @@
 | ✅ Day 9 | Function + List/Dict Combo Practice    | `weak2/python_day9/`      |
 | ✅ Day 10 | Advanced Functions, Arguments, Return, Mini Project | `weak2/python_day10/` |
 | ✅ Day 11| File Handling: Write,Read,Append,Log | `weak2/python_day11/` |
+| ✅ Day 12 | Exception Handling (try, except, else, finally) | `weak2/python_day12/` |
 
 
 ## 🛠️ Tech Stack I'm Learning
