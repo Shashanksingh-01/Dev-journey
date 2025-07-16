@@ -36,6 +36,7 @@
 | ✅ Day 10 | Advanced Functions, Arguments, Return, Mini Project | `weak2/python_day10/` |
 | ✅ Day 11| File Handling: Write,Read,Append,Log | `weak2/python_day11/` |
 | ✅ Day 12 | Exception Handling (try, except, else, finally) | `weak2/python_day12/` |
+| ✅ Day 13 | Lists: Indexing, Methods, Loops, Shopping Cart | `weak2/python_day13/` |
 
 
 ## 🛠️ Tech Stack I'm Learning
